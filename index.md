@@ -40,7 +40,9 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
   - [the W3C Process](process/#groups)
 - People management
   - [HumanDimension](https://www.w3.org/wiki/Guide/HumanDimension) (a Chair training module)
-  - [Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [Procedures](process/coc-incident-resolution-ombuds.md) to assist all parties when issues arise. We have [guidelines to suspend or remove participants from groups](process/suspension.md). See more on the [Positive Work Environment Home Page](https://www.w3.org/about/positive-work-environment/)
+  - [Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [Procedures](process/coc-incident-resolution-ombuds.md) to assist all parties when issues arise.
+    - We recommend reminding your group about the CoC regularly. Suggested wording, "W3C operates under the Code of Conduct. The goal of this Code of Conduct is to ensure that W3C is an environment where everyone who participates is treated equitably and with respect.
+    - We have [guidelines to suspend or remove participants from groups](process/suspension.md). See more on the [Positive Work Environment Home Page](https://www.w3.org/about/positive-work-environment/)
 - Check out our [Working Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=working) and [Interest Groups](https://www.w3.org/PM/Groups/chairboards.html?gtype=interest) dashboards to navigate through what we know about them. The Project Management team maintains a [collection of links and tools](https://www.w3.org/PM/) to keep track.
 
 ### Closing a Group {#close}
@@ -85,6 +87,7 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
 - [Tips for getting to Recommendation faster](standards-track/rec-tips.md)
 - [Considerations on the final maturity stage of group deliverables](process/living-cr-rec.md)
+- Submitting a W3C Recommendation to ISO: the [PAS transposition process](process/pas-transposition-process.html)
 
 ### Test Suites {#testsuites}
 
@@ -101,9 +104,10 @@ A list of [group procedures related to the W3C Process](process/#groups) is avai
 - [W3C Documents and license related to API definitions, code samples, or examples](process/binding-license.md)
 - Discussion about specifications tooling and versioning on [spec-prod@w3.org](https://lists.w3.org/Archives/Public/spec-prod/)
 
-## Speaking About Your Work {#speaking}
+## Speaking about your work {#speaking}
 
-- Blogs, articles, Press interviews: Working Group participants, TAG Members, W3C Staff are among the world's experts in Web technologies and their impacts. Give heads-up, share relevant work, things you author, or coordinate press enquiries, by writing to the W3C Communications team <[w3t-pr@w3.org](mailto:w3t-pr@w3.org)> about how you may attribute your work (or not) to W3C.
+- Blogs, articles, [talks, meetups](https://www.w3.org/news-events/about-w3c-events/), Press interviews: Work Group participants, TAG Members, AB Members, W3C Evangelists or Chapters, W3C Staff are among the world's experts in web technologies and their impacts. These are coordinated to ensure a cohesive coordination across the Consortium, that applicable meeting requirements are met, that using the [W3C Brand](https://www.w3.org/about/press-media/#brand) is done according to expectations. **Give heads-up**, share relevant work, things you author, or coordinate press enquiries, by writing to the W3C Communications team <[w3t-pr@w3.org](mailto:w3t-pr@w3.org)> about how you may attribute your work (or not) to W3C.
+- We have a [slide template](https://www.w3.org/Talks/Templates/b6plus-slideset.html) we encourage people to use.
 - Write on the [W3C Blog](https://www.w3.org/news-events/about-w3c-blog/) (open to W3C Group participants, members of the W3C Team); talks publicized on [W3C home page](https://www.w3.org/), W3C Social Media.
 - [Press release testimonial guidelines](https://www.w3.org/2004/12/testimonial_pr-guidelines.html)
 - [Creating and delivering effective presentations](https://www.w3.org/wiki/Speaker_Resources)
